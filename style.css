@@ -9,6 +9,14 @@
     text-decoration: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 a:hover,
 a:active,
 a:focus {
